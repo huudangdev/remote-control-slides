@@ -11,5 +11,6 @@ Here is a tutorial on this project https://tutorialzine.com/2015/02/smartphone-r
 
 ![](https://imgur.com/hgNxopZ.png)
 ![](https://imgur.com/EQGWhiY.png)
+![](https://imgur.com/M6354aQ.gif)
 
 [DEMO WEB APP](https://presentation-dem.herokuapp.com/)
